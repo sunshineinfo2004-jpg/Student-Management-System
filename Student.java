@@ -1,4 +1,4 @@
-```java
+
 public class Student {
 
     private int id;
@@ -48,4 +48,3 @@ public void setCourse(String course) {
                 + ", Course: " + course;
     }
 }
-```
