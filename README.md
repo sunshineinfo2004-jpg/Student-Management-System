@@ -21,6 +21,7 @@ This project is a beginner-friendly Java application that demonstrates object-or
 * ArrayList
 * Scanner
 * GitHub
+* GitHub Codespaces
 
 ## Student Information
 
@@ -39,7 +40,8 @@ The system stores:
 2. View Students
 3. Search Student
 4. Delete Student
-5. Exit
+5. Update Student
+6. Exit
 
 Enter your choice: 1
 
@@ -51,7 +53,7 @@ Enter Course: Java
 Student added successfully!
 ```
 
-## How to Run
+## How to Run use IntelliJ IDEA or GitHub Codespaces
 
 1. Download `Main.java`.
 2. Open it in a Java IDE such as IntelliJ IDEA.
