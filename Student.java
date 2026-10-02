@@ -28,7 +28,18 @@ public class Student {
     public String getCourse() {
         return course;
     }
+public void setName(String name) {
+    this.name = name;
+}
 
+public void setEmail(String email) {
+    this.email = email;
+}
+
+public void setCourse(String course) {
+    this.course = course;
+}
+    
     @Override
     public String toString() {
         return "ID: " + id
